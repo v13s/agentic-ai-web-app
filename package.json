@@ -1,0 +1,11 @@
+{
+  "name": "agentic-ai-web-app",
+  "version": "1.0.0",
+  "description": "Agentic AI Webapp is a multi-agent orchestration user interface built using React and Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
